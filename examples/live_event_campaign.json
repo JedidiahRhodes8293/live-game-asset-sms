@@ -1,0 +1,24 @@
+{
+  "campaign_id": "season-launch-18",
+  "sent_at": "2026-08-30T10:00:00Z",
+  "events": [
+    {
+      "event_id": "arena-18",
+      "title": "Season 18 Arena",
+      "starts_at": "2026-08-30T09:30:00Z",
+      "ends_at": "2026-08-30T12:00:00Z"
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "banner-204",
+      "player_id": "player-7",
+      "event_id": "arena-18",
+      "kind": "banner",
+      "moderation": "approved"
+    }
+  ],
+  "audience": [
+    {"player_id": "player-7", "phone": "+15555550123", "asset_id": "banner-204"}
+  ]
+}
